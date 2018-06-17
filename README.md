@@ -5,7 +5,7 @@ Simple Node developer challenge.
 Clone this repo and build a simple key/value store CLI using only the core Node API. Once you have finished the challenge, please deliver it by providing a GitHub repo, Dropbox, or Google Drive link.
 
 
-#create the link `store`
+#### Create the link `store`
 Inside the project path execute
 $ npm install -g
 
