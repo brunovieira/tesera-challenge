@@ -1,0 +1,22 @@
+{
+  "name": "challenge-one",
+  "version": "1.0.0",
+  "description": "Tesera Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunovieira/tesera-challenge.git"
+  },
+  "author": "Bruno Vieira",
+  "license": "ISC",
+  "bin": {
+    "store": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/brunovieira/tesera-challenge/issues"
+  },
+  "homepage": "https://github.com/brunovieira/tesera-challenge#readme"
+}
