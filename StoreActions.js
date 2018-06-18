@@ -65,7 +65,7 @@ class StoreActions {
   }
 
   _jsonToMap (jsonStr) {
-    return new Map(JSON.parse(jsonStr))
+    return jsonStr ? new Map(JSON.parse(jsonStr)) : new Map()
   }
 }
 
